@@ -14,4 +14,5 @@ public class Zadanie1 {
         }
         System.out.println("Znak "+last +" wystąpił " + count + " razy. ");
     }
+
 }
